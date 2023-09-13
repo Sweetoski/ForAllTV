@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NONE" tvg-name="MX: A3CINE" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/a3cine.png" group-title="CINE",MX: A3CINE
-http://lati.iptvlatino.cc:88/xewtyytt/rwh43yft/1174
+
 #EXTINF:-1 tvg-id="I207.90653.schedulesdirect.org" tvg-name="MX: AMC" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/amc.png" group-title="CINE",MX: AMC
 http://lati.iptvlatino.cc:88/xewtyytt/rwh43yft/1003
 #EXTINF:-1 tvg-id="I3124.62125.schedulesdirect.org" tvg-name="MX: CINE ESTELAR" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/cine_estelar.png" group-title="CINE",MX: CINE ESTELAR
@@ -902,11 +901,76 @@ http://lati.iptvlatino.cc:88/xewtyytt/rwh43yft/1081
 http://lati.iptvlatino.cc:88/xewtyytt/rwh43yft/1083
 #EXTINF:-1 tvg-id="I1148.70110.schedulesdirect.org" tvg-name="MX: LAS ESTRELLAS -2" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/las_estrellas_-2.png" group-title="TV ABIERTA",MX: LAS ESTRELLAS -2
 http://lati.iptvlatino.cc:88/xewtyytt/rwh43yft/1152
-#EXTINF:-1 tvg-id="NONE" tvg-name="MX: LOCALES NORTE" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/locales.png" group-title="TV ABIERTA",MX: LOCALES NORTE
-http://lati.iptvlatino.cc:88/xewtyytt/rwh43yft/1178
-#EXTINF:-1 tvg-id="NONE" tvg-name="MX: LOCALES OESTE" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/locales.png" group-title="TV ABIERTA",MX: LOCALES OESTE
 http://lati.iptvlatino.cc:88/xewtyytt/rwh43yft/1179
 #EXTINF:-1 tvg-id="I154.28440.schedulesdirect.org" tvg-name="MX: MEXIQUENSE" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/mexiquense.png" group-title="TV ABIERTA",MX: MEXIQUENSE
 http://lati.iptvlatino.cc:88/xewtyytt/rwh43yft/1089
 #EXTINF:-1 tvg-id="I1150.59528.schedulesdirect.org" tvg-name="MX: NUEVE" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/nueve.png" group-title="TV ABIERTA",MX: NUEVE
 http://lati.iptvlatino.cc:88/xewtyytt/rwh43yft/1154
+
+
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40 (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",AMX Noticias (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimaxRevival.cl" tvg-logo="https://animax.lat/assets/img/logo-512.png" group-title="Animation",Animax Revival (936p)
+https://streaming.zappix.live:3062/live/animaxlive.m3u8
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-id="B15.mx" tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="General",B15 (1080p)
+https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
+#EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-logo="https://i.imgur.com/AWLWu91.png" group-title="Culture;Education",Canal Catorce (XHSPR-TDT1) (720p)
+https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldelCongreso453.mx" tvg-logo="https://i.imgur.com/DS3166S.png" group-title="Legislative",Canal del Congreso 45.3 (1080p) [Not 24/7]
+https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalOchoTV.mx" tvg-logo="https://i.ibb.co/YND5HXD/Captura.png" group-title="General",Canal Ocho TV (1080p)
+https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
+#EXTINF:-1 tvg-id="ConectaTV.mx" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Music",Conecta TV (720p)
+https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="EstrellaGames.us" tvg-logo="https://i.imgur.com/Z52nEnH.png" group-title="Entertainment;Family",Estrella Games (1080p)
+https://estrella-games-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaNews.us" tvg-logo="https://i.imgur.com/HRrkhLq.png" group-title="News",Estrella News (1080p)
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV.us" tvg-logo="https://i.imgur.com/IZxjnyp.png" group-title="Entertainment",Estrella TV (1080p)
+https://estrellatv-glewed.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ExcelsiorTV.mx" tvg-logo="https://i.imgur.com/bJpjfpt.png" group-title="Undefined",Excélsior TV (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
+#EXTINF:-1 tvg-id="ExpresaTV.mx" tvg-logo="https://i.imgur.com/kFVVGrg.png" group-title="General",Expresa TV (720p)
+https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
+https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Foro.mx" tvg-logo="https://i.imgur.com/dDFrONz.png" group-title="News",Foro TV (1080p)
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (1080p)
+https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1 tvg-id="IMRyT.mx" tvg-logo="https://i.imgur.com/D91O6ka.png" group-title="Undefined",IMRyT (720p)
+https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8
+#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-logo="https://i.imgur.com/zyAS1hk.png" group-title="Undefined",Justicia TV (720p)
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Series",Kanal D Drama (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="General",Las Estrellas Latin America (720p)
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="Undefined",Mexiquense TV (720p)
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal6Nacional.mx" tvg-logo="https://i.imgur.com/JEpnxAr.png" group-title="Undefined",Multimedios CDMX (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkMexico.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies",MyTime movie network Mexico (720p)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",N+ Media-Televisa News México (1080p)
+https://channel07-notusa.akamaized.net/hls/live/2036971-b/event01/index.m3u8
+#EXTINF:-1 tvg-id="NPlus.mx" tvg-logo="https://i.imgur.com/TwBa344.png" group-title="News",NMás (1080p)
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+#EXTINF:-1 tvg-id="NPlusMedia.mx" tvg-logo="https://i.imgur.com/rFRx3d5.png" group-title="Undefined",NMás Media (1080p)
+https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="Education",Once Mexico (1080p)
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-1 tvg-id="ViXJajaja.mx" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Comedy",ViX Jajaja (1080p)
+https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ViXParejas.mx" tvg-logo="https://i.imgur.com/7wYK8m6.png" group-title="Entertainment",ViX Parejas (1080p)
+https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
