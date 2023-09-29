@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="I256.16707.schedulesdirect.org" tvg-name="MX: NICKELODEON LATINO**" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/nickelodeon_latino.png" group-title="LATINO 480P/MÓVIL",MX: NICKELODEON LATINO**
+http://lati.iptvlatino.cc:88/xewtyytt/rwh43yft/4096
 
 #EXTINF:-1 tvg-id="I207.90653.schedulesdirect.org" tvg-name="MX: AMC" tvg-logo="http://live.iptvlatino.cc/stream_icons_mx/amc.png" group-title="CINE",MX: AMC
 http://lati.iptvlatino.cc:88/xewtyytt/rwh43yft/1003
